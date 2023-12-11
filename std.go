@@ -6,7 +6,7 @@ import (
 	"strings"
 )
 
-func main() {
+func std() {
 	greeting := "Hello there friends!"
 	fmt.Println(strings.Contains(greeting, "Hello"))
 	fmt.Println(strings.ReplaceAll(greeting, "Hello", "Hiii"))
