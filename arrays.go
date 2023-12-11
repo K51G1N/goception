@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func arrays() {
+func main() {
 
 	// var team_avatar_ages [3]int = [3]int{10, 12, 14}
 	var teamAvatarAges = [3]int{10, 12, 14} //shortened

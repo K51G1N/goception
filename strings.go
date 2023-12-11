@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func stringfmting () {
+func main() {
 
 	age := 110
 	name := "aang"
